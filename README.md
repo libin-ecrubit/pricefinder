@@ -1,0 +1,2 @@
+# pricefinder
+plugin
